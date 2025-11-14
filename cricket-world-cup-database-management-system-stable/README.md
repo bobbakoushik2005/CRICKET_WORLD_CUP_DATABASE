@@ -72,4 +72,4 @@ python app.py
 
 ## Authors
 
-- [**Mantresh Khurana**](https://github.com/mantreshkhurana)
+- [**Bobba Koushik**](https://github.com/mantreshkhurana)
