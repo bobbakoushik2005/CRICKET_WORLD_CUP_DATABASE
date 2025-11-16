@@ -10,13 +10,7 @@ This is a database management system for a cricket world cup. The system is desi
 - [Usage](#usage)
 - [Authors](#authors)
 
-## Screenshots
 
-![Home](screenshots/home.png)
-
-| All Players | Player's Details |
-| --- | --- |
-| ![Screenshot 1](screenshots/screenshot-1.png) | ![Players](screenshots/screenshot-2.png) |
 
 ## Features
 
