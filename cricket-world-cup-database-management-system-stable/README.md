@@ -4,7 +4,7 @@ This is a database management system for a cricket world cup. The system is desi
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
+
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
